@@ -1,0 +1,11 @@
+.env
+!.env.example
+game.db
+game.db-shm
+game.db-wal
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+.pytest_cache/
+.mypy_cache/

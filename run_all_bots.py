@@ -1,3 +1,4 @@
+#run_all_bots.py
 import signal
 import subprocess
 import sys

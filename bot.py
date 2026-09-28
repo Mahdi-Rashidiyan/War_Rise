@@ -1,3 +1,4 @@
+# bot.py
 import telebot
 from settings import CHANNEL_ID, NEWS_CHANNEL_ID, TELEGRAM_MAINBOT_API
 from telebot.types import BotCommand, InlineKeyboardButton, InlineKeyboardMarkup
